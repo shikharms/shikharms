@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm shikhar</h1>
-<h3 align="center">A passionate cloud architect has expertise in multiple technologies</h3>
+<h1 align="center">Hi 👋, This is shikhar</h1>
+<h3 align="center">An engineer and MBA with 11+ years of experience in multi cloud design, solutions architecture, system integration, and security.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shikharms&label=Profile%20views&color=0e75b6&style=flat" alt="shikharms" /> </p>
 
