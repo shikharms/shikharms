@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Anything in IT and Business Process**
 
-- 📫 How to reach me **https://www.youtube.com/channel/UCSxQfLqhIK_xzPzcd64xAYg**
+- 📫 How to reach me **shikharsingh09@live.in**
 
 - ⚡ Fun fact **I love making Jokes**
 
